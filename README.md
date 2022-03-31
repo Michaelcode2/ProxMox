@@ -1,5 +1,5 @@
 # ProxMox
-![ProxMox](https://www.redeszone.net/app/uploads-redeszone.net/2018/12/Proxmox-VE-5-800x388.jpg)
+![ProxMox](https://www.taste-of-it.de/wp-content/uploads/2013/07/proxmox_ve_logo.jpg)
 
 Налаштування хостів ProxMox.
 
